@@ -10,8 +10,6 @@ Este projeto consiste em um dispositivo IoT que capta dados de temperatura, lumi
 - [Hardware Necessário](#hardware-necessário)
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Funcionamento](#funcionamento)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Descrição do Projeto
 
