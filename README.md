@@ -1,4 +1,10 @@
 # SPRINT TECH MAHINDRA
+## Integrantes:
+- João Víctor RM: 555052
+- Guilherme Oliveira RM: 558797
+- Rafael Panhoca RM: 555014
+- Victor Hugo RM: 559094
+- Tatiana Thamye RM: 554605
 ## Projeto Sensores de Pista
 Este projeto consiste em um dispositivo IoT que capta dados de temperatura, luminosidade e umidade e os disponibiliza para visualização em um site. O repositório contém o código do Arduino utilizado para capturar esses dados.
 
